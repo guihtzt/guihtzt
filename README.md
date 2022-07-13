@@ -1,4 +1,4 @@
-- Hi, I’m @guihtzt
+- Hi, I’m @adeusneve
 - 🌱 Currently learning HTML, CSS, JScript and Web Development stuff in general
 - 🤍 Looking for new Web Projects
 - 📫 You can contact me at ghtozato@gmail.com or on Instagram at @guihtzt
